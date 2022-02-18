@@ -1,0 +1,20 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*header{
+    background-image: ;
+}*/
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+.button:hover {
+    font-weight: bolder;
+}
